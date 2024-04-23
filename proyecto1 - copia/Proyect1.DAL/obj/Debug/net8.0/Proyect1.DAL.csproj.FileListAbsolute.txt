@@ -1,0 +1,11 @@
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\bin\Debug\net8.0\Proyect1.DAL.deps.json
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\bin\Debug\net8.0\Proyect1.DAL.dll
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\bin\Debug\net8.0\Proyect1.DAL.pdb
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\obj\Debug\net8.0\Proyect1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\obj\Debug\net8.0\Proyect1.DAL.AssemblyInfoInputs.cache
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\obj\Debug\net8.0\Proyect1.DAL.AssemblyInfo.cs
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\obj\Debug\net8.0\Proyect1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\obj\Debug\net8.0\Proyect1.DAL.dll
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\obj\Debug\net8.0\refint\Proyect1.DAL.dll
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\obj\Debug\net8.0\Proyect1.DAL.pdb
+C:\Users\Issac\source\repos\proyecto1\Proyect1.DAL\obj\Debug\net8.0\ref\Proyect1.DAL.dll
