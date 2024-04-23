@@ -56,6 +56,7 @@ var circulo = new Circulo[]
     new Circulo {h=3}
 };
 
+//datos de rectangulo 
 var rectagulo = new Rectragle[]
 {
     new Rectragle {h = 3, l = 6},
