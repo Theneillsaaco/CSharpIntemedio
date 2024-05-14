@@ -21,7 +21,6 @@
             }
             else
             {
-                //Mensaje de error
                 Console.WriteLine("El país no está admitido");
             }
 
