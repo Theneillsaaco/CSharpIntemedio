@@ -1,0 +1,16 @@
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\bin\Debug\net8.0\AdminDepartamentos.Infrastucture.deps.json
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\bin\Debug\net8.0\AdminDepartamentos.Infrastucture.dll
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\bin\Debug\net8.0\AdminDepartamentos.Infrastucture.pdb
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\bin\Debug\net8.0\AdminDepartamentos.Domain.dll
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\bin\Debug\net8.0\AdminDepartamentos.Domain.pdb
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\AdminDepartamentos.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\AdminDepartamentos.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\AdminDepartamentos.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\AdminDepartamentos.Infrastucture.AssemblyInfo.cs
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\AdminDepartamentos.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\AdminDepartamentos.Infrastucture.sourcelink.json
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\AdminDep.BF7E598A.Up2Date
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\AdminDepartamentos.Infrastucture.dll
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\refint\AdminDepartamentos.Infrastucture.dll
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\AdminDepartamentos.Infrastucture.pdb
+C:\Users\Issac\source\repos\AdminDepartamentos\AdminDepartamentos.Infrastucture\obj\Debug\net8.0\ref\AdminDepartamentos.Infrastucture.dll
